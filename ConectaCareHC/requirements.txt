@@ -3,3 +3,6 @@ gunicorn
 oracledb
 requests
 python-dotenv
+joblib
+scikit-learn
+pandas
