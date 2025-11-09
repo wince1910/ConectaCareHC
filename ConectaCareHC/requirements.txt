@@ -1,0 +1,5 @@
+Flask
+gunicorn
+oracledb
+requests
+python-dotenv

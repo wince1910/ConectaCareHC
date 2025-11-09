@@ -1,0 +1,16 @@
+[
+    {
+        "nome": "Gabriel",
+        "cpf": "48396277893",
+        "idade": 26,
+        "email": "gabrielwince@hotmail.com",
+        "telefone_contato": "11977074671",
+        "logradouro": "Rua Benedita Lima Teixeira",
+        "numero": "44",
+        "complemento": "Casa",
+        "bairro": "Jardim Brasília",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "05845270"
+    }
+]
